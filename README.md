@@ -1,6 +1,8 @@
 # Internship Tracker Software
 
+
 A futuristic, high-tech internship application tracker built with Vanilla JS, HTML, and CSS.
+
 
 ## Features
 - Kanban Board: Drag and drop applications through stages.
@@ -21,3 +23,10 @@ A futuristic, high-tech internship application tracker built with Vanilla JS, HT
                  
                   - ## Storage
                   - All data is saved locally in your browser's localStorage.
+
+
+
+## Preview
+![Application Preview](internship_tracker_preview_1767247031942.png)
+
+[Live Preview](https://Jackie-lab-maker.github.io/Internship-Tracker-Software/)
