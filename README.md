@@ -1,4 +1,4 @@
-# <img width="1024" height="1024" alt="xyintern_icon_only - Copy" src="https://github.com/user-attachments/assets/64314318-bb89-4e1f-9b6b-b8bea1ae268d" />
+# <img width="300" height="300" alt="xyintern_icon_only - Copy" src="https://github.com/user-attachments/assets/64314318-bb89-4e1f-9b6b-b8bea1ae268d" />
 XYIntern — Internship Application Manager
 
 **XYIntern** is a futuristic, Kanban-style web application designed to help students efficiently track and manage internship applications across multiple recruiting cycles. An  internship application tracker software built with Vanilla JS, HTML, and CSS. 
