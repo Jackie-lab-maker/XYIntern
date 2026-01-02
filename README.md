@@ -1,6 +1,5 @@
 # Internship Tracker Software
 
-[Live Preview](file:///Users/sipsshao/.gemini/antigravity/scratch/internship-tracker/index.html)
 
 A futuristic, high-tech internship application tracker built with Vanilla JS, HTML, and CSS.
 
