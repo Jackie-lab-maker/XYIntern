@@ -1,7 +1,7 @@
 # Internship Tracker Software
 
 
-A futuristic, high-tech internship application tracker built with Vanilla JS, HTML, and CSS.
+A futuristic internship application tracker software built with Vanilla JS, HTML, and CSS.
 
 ## Tech Stack
 - Frontend: HTML5, CSS3, JavaScript (ES6+)
